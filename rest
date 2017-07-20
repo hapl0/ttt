@@ -1,4 +1,4 @@
-#REST Structure draft
+#REST Structure draft 1
 /Rulesets
 /{RulesetName}/Attributes
 			  /{AbsoluteAttributeName}/Description
